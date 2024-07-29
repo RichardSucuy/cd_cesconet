@@ -1,0 +1,21 @@
+ID_servicios,Nombre_servicio,Descripcion_servicio,Precio_servicio
+1,Internet Banda Ancha,Conexión a internet de alta velocidad para hogares y empresas.,104.66
+2,Telefonía Móvil,Planes móviles con cobertura nacional e internacional.,114.84
+3,Telefonía Fija,Servicio de telefonía fija con opciones de llamadas internacionales ilimitadas.,34.63
+4,TV Cable,Paquetes de televisión por cable con una amplia variedad de canales.,109.3
+5,Servicios Cloud,Soluciones de almacenamiento y procesamiento de datos en la nube.,30.61
+6,Soporte Técnico,Asistencia técnica 24/7 para todos nuestros servicios.,31.7
+7,Soluciones Empresariales,Servicios personalizados para necesidades corporativas específicas.,113.81
+8,Seguridad Online,Protección avanzada contra amenazas online para usuarios y empresas.,64.01
+9,Hosting Web,Alojamiento de sitios web con alta disponibilidad y respaldo automático.,110.19
+10,VPN Empresarial,Red privada virtual para asegurar la comunicación empresarial.,85.2
+11,Gestión de Redes,Administración y supervisión de redes corporativas.,119.08
+12,Servicios VoIP,Comunicación de voz sobre IP con alta calidad y bajos costos.,15.72
+13,Backup en la Nube,Servicios de respaldo en la nube para asegurar la integridad de los datos.,60.14
+14,Fibra Óptica,Internet ultra rápido a través de tecnología de fibra óptica.,80.21
+15,Email Empresarial,Servicios de correo electrónico seguros y personalizados para empresas.,118.47
+16,IPTV,Televisión por Internet con acceso a contenido exclusivo y a la carta.,46.64
+17,Teleconferencia,Soluciones de teleconferencia para reuniones virtuales eficientes.,133.15
+18,Monitoreo de Red,Monitoreo constante de la red para prevenir y resolver incidencias.,115.7
+19,Internet IoT,Conexiones dedicadas para dispositivos IoT en entornos industriales.,62.55
+20,Ciberseguridad,Evaluación y fortalecimiento de la seguridad informática empresarial.,18.69
